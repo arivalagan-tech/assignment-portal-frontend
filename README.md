@@ -70,7 +70,6 @@ src/
 - [ ] **Internationalization (i18n)** – Multi-language support
 - [ ] **Dark Mode Toggle** – Theme switcher
 - [ ] **Component Library (Storybook)** – Design system
-- [ ] **End-to-End Tests (Cypress/Playwright)** – QA automation
 - [ ] **CI/CD Pipeline** – GitHub Actions workflow
 
 ---
