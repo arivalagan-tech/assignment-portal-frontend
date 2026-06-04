@@ -78,12 +78,3 @@ src/
 
 ---
 
-## 📝 License
-
-MIT License – see [LICENSE](LICENSE) file
-
----
-
-## 👨‍💻 Author
-
-**arivalagan-tech** – [GitHub Profile](https://github.com/arivalagan-tech)
