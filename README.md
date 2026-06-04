@@ -21,7 +21,7 @@ A modern, high-performance **React.js** frontend application for managing assign
 - **Context API** – State management
 - **React Router v6** – Client-side routing
 - **Vite/CRA** – Fast build tooling
-- **ESLint & Prettier** – Code quality
+
 
 ---
 
