@@ -54,7 +54,7 @@ src/
 ├── hooks/          # Custom hooks
 ├── services/       # API calls
 ├── utils/          # Utilities
-└── styles/         # Global styles
+
 ```
 
 ---
