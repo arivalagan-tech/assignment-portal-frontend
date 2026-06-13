@@ -11,7 +11,7 @@ A modern, high-performance **React.js** frontend application for managing assign
 - 📱 Mobile-First Design – Fully responsive
 - 🔄 Real-Time Updates – Live synchronization
 - ♿ Accessibility – WCAG 2.1 compliant
-
+- 🔐 Secure Authentication – Best practices implemented
 
 ---
 
