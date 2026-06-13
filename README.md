@@ -54,7 +54,7 @@ src/
 ├── hooks/          # Custom hooks
 ├── services/       # API calls
 ├── utils/          # Utilities
-
+└── styles/         # Global styles
 ```
 
 ---
@@ -62,7 +62,7 @@ src/
 ## 🚀 Future Implementation
 
 - [ ] **TypeScript** – Full type safety
-- [ ] **TanStack Query** – Advanced server state management
+
 - [ ] **React Hook Form + Zod** – Form validation
 - [ ] **WebSocket Integration** – Real-time collaboration
 - [ ] **PWA Support** – Offline functionality
