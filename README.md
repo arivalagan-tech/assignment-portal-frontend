@@ -66,7 +66,7 @@ src/
 - [ ] **React Hook Form + Zod** – Form validation
 - [ ] **WebSocket Integration** – Real-time collaboration
 - [ ] **PWA Support** – Offline functionality
-
+- [ ] **Analytics Dashboard** – Data visualization
 - [ ] **Internationalization (i18n)** – Multi-language support
 - [ ] **Dark Mode Toggle** – Theme switcher
 - [ ] **Component Library (Storybook)** – Design system
